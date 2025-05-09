@@ -1,0 +1,26 @@
+{
+  "name": "discord_invite_manager",
+  "version": "1.0.0",
+  "description": "discordの招待を管理するなんか",
+  "main": "index.ts",
+  "scripts": {
+    "test": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suke0930/Discord_invite_manager.git"
+  },
+  "author": "suke0930",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suke0930/Discord_invite_manager/issues"
+  },
+  "homepage": "https://github.com/suke0930/Discord_invite_manager#readme",
+  "dependencies": {
+    "@types/node": "^22.15.17",
+    "discord": "^0.8.2",
+    "discord.js": "^14.19.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
